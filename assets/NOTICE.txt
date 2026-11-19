@@ -1,0 +1,17 @@
+Font attribution:
+
+subset-NotoSans-Regular.ttf and subset-NotoSans-SemiBold.ttf:
+Copyright 2022 The Noto Project Authors
+https://github.com/notofonts/latin-greek-cyrillic
+
+subset-LexendDeca-Medium.ttf and LexendDeca-SemiBold.ttf:
+Copyright 2019 The Lexend Project Authors
+https://github.com/googlefonts/lexend
+
+These fonts are licensed under the SIL Open Font License 1.1.
+See OFL-1.1.txt. The embedded name of subset-LexendDeca-Medium.ttf
+is Lexend-Regular; it is retained for compatibility with existing covers.
+
+The logos and other images are provided by the project owner. Their inclusion
+does not grant any trademark rights; verify distribution permissions before
+publishing or redistributing them.

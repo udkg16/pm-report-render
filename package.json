@@ -1,0 +1,15 @@
+{
+  "name": "pm-report-render",
+  "version": "1.0.0",
+  "private": true,
+  "bin": {"report-render": "./render_cli.js"},
+  "files": ["render_cli.js", "engine/", "assets/"],
+  "engines": {"node": ">=20"},
+  "scripts": {"test": "node --test"},
+  "dependencies": {
+    "@expo-google-fonts/lexend-deca": "0.4.1",
+    "@expo-google-fonts/noto-sans-sc": "0.4.4",
+    "@pdf-lib/fontkit": "1.1.1",
+    "pdf-lib": "1.17.1"
+  }
+}
